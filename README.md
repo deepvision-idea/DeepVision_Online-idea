@@ -5,8 +5,8 @@ DeepVision'ın online çalışması için geliştirilen uygulama:
 //////////////////////////////////////////////////////////////
 
 
-	DeepVision MSI'da çalıştırma komutları şu şekildedir. Ekte ayrıca ilgili dizinin ekran goruntüsünü paylaştığım dizinde 
-	python manage.py runserver IP komutunu çağırarak çalıştırılıyor. Ekran görüntüsünün üst kısmında olduğu gibi detection çıktıları görülebilir.
+	DeepVision MSI'da çalıştırma komutları şu şekildedir. Sharepoint DeepVision içinde ekran görüntüleri dosyası içide ayrıca ekran goruntüsünü paylaştığım dizinde :
+	python manage.py runserver IP komutunu çağırarak çalıştırılıyor. Ekran görüntüsü yine belirtilen dosyadadır.
 
 	IP bilgisini değiştirmek istediğinizde ise mysite dosyası içinde şu kısımlarda değişiklik yapmanız gerekli :
 	settings.py içinde allowed host kısmına eklemek istediğiniz IP girişi yapılmalı onu da ekte paylaşıyorum.
